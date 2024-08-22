@@ -16,8 +16,7 @@ public class Arrays_program {
 		
 		Arrays.sort(ar);
 		System.out.println("Ascending order is:"+Arrays.toString(ar));
-		
-
+	
 	}
 
 }
